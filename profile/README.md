@@ -36,12 +36,12 @@
 
 ## 함께하기
 
-디스코드로 오시면 됩니다. → **[서버 초대 링크]**
+디스코드로 오시면 됩니다. → **[[서버 초대 링크]](https://discord.gg/RupAuPJwDA)**
 
 리포마다 참여 방식이 다릅니다. 연재 리포는 저자 개인 저작이라 의견을 Issue로 받고,
 Playbook 리포는 PR을 환영합니다. 각 리포의 `CONTRIBUTING.md`를 봐 주세요.
 
-문의: `[커뮤니티 이메일]`
+문의: `gaegol@gmail.com`
 
 ---
 
@@ -62,6 +62,6 @@ named human before it ships.
 Founded August 2025. GitHub organization opened August 2026.
 Advised by Allan Friedman (IST). Led by Yunseong Choi, OpenSSF Ambassador.
 
-Come say hello on Discord: **[invite link]**
+Come say hello on Discord: **[invite link](https://discord.gg/RupAuPJwDA)**
 
 </details>
