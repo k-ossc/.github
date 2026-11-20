@@ -1,6 +1,6 @@
 # K-OSSC
 
-**한국 오픈소스 보안 커뮤니티** · Korea Open Source Security Community
+**한국오픈소스보안커뮤니티** · Korea Open Source Security Community
 
 소프트웨어 공급망 보안을 공부하고, 쓰고, 옮기는 사람들이 모인 곳입니다.
 2025년 8월 첫 모임으로 시작했고, 2026년 8월 커뮤니티 서버와 이 조직을 열었습니다.
@@ -23,6 +23,8 @@
 |---|---|---|
 | `supply-chain-notes` | 공급망 보안 연재. 디스코드 게시물의 원본과 수정 이력 | 준비 중 |
 | `sbom-playbook` | SIG-SBOM이 함께 만드는 SBOM 실무 안내서 한국판 | 예정 |
+| [`cra-guide`](https://github.com/k-ossc/cra-guide) | 「EU 사이버 복원력법(CRA) 실무 가이드」 온라인판 | 공개 |
+| [`kossc-projects`](https://github.com/k-ossc/kossc-projects) | 회원과 회원 소속 기업·기관의 오픈소스 프로젝트 소개 | 공개 |
 
 ## 우리가 일하는 방식
 
@@ -39,9 +41,10 @@
 디스코드로 오시면 됩니다. → **[[서버 초대 링크]](https://discord.gg/RupAuPJwDA)**
 
 리포마다 참여 방식이 다릅니다. 연재 리포는 저자 개인 저작이라 의견을 Issue로 받고,
-Playbook 리포는 PR을 환영합니다. 각 리포의 `CONTRIBUTING.md`를 봐 주세요.
+Playbook 리포는 PR을 환영합니다. 가이드 리포는 정오 제보와 의견을 Issue로 받습니다.
+각 리포의 README를 봐 주세요.
 
-문의: `gaegol@gmail.com`
+문의: `cfp.kossc@gmail.com`
 
 ---
 
@@ -59,7 +62,7 @@ Our work rests on three pillars: **Community, Education, and Localization.**
 We use AI for first drafts and translation, but every piece is reviewed by a
 named human before it ships.
 
-Founded August 2025. GitHub organization opened August 2026.
+Founded August 2025. Discord server and GitHub organization opened August 2026.
 Advised by Allan Friedman (IST). Led by Yunseong Choi, OpenSSF Ambassador.
 
 Come say hello on Discord: **[invite link](https://discord.gg/RupAuPJwDA)**
