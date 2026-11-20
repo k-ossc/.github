@@ -62,8 +62,8 @@ Our work rests on three pillars: **Community, Education, and Localization.**
 We use AI for first drafts and translation, but every piece is reviewed by a
 named human before it ships.
 
-Founded August 2025. Discord server and GitHub organization opened August 2026.
-Advised by Allan Friedman (IST). Led by Yunseong Choi, OpenSSF Ambassador.
+Founded August 2025. Discord server and GitHub organization opened August 2026. Led by Yunseong Choi, OpenSSF Ambassador.
+Advised by Lee Won-tae (Kookmin University), Lee Hyung-dong (INSS), Justin Cappos (NYU), and Allan Friedman (IST).
 
 Come say hello on Discord: **[invite link](https://discord.gg/RupAuPJwDA)**
 
